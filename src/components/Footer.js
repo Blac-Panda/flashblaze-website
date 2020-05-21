@@ -21,7 +21,7 @@ const Footer = () => (
     }}
   >
     <a
-      href="https://github.com/FlashBlaze"
+      href="https://github.com/Blac-Panda"
       rel="noopener noreferrer"
       target="_blank"
       aria-label="GitHub"
@@ -31,7 +31,7 @@ const Footer = () => (
       />
     </a>
     <a
-      href="https://instagram.com/neeraj_artx"
+      href="https://instagram.com/oyefeso_"
       rel="noopener noreferrer"
       target="_blank"
       aria-label="Instagram"
@@ -41,7 +41,7 @@ const Footer = () => (
       />
     </a>
     <a
-      href="https://twitter.com/neeraj_artx"
+      href="https://twitter.com/oyefesotunmise"
       rel="noopener noreferrer"
       target="_blank"
       aria-label="Twitter"
@@ -51,7 +51,7 @@ const Footer = () => (
       />
     </a>
     <a
-      href="https://www.linkedin.com/in/neeraj-lagwankar/"
+      href="https://www.linkedin.com/in/oluwatunmise-oyefeso/"
       rel="noopener noreferrer"
       target="_blank"
       aria-label="LinkedIn"

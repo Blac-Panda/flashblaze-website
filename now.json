@@ -1,5 +1,5 @@
 {
-  "alias": "flashblaze.xyz",
+  "alias": "codexplorer.me",
   "build": {
     "env": {
       "API_KEY": "@fashfb-api",
@@ -8,8 +8,7 @@
       "PROJECT_ID": "@flashfb-projectid",
       "STORAGE_BUCKET": "@flashfb-storagebucket",
       "MESSAGING_SENDER_ID": "@flashfb-messagingsenderid",
-      "APP_ID": "@flashfb-appid",
-      "MEASUREMENT_ID": "@flashfb-measurementid"
+      "APP_ID": "@flashfb-appid"
     }
   }
 }

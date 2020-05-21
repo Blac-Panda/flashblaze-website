@@ -1,5 +1,6 @@
 /**@jsx jsx  */
 import { Link, jsx } from 'theme-ui';
+import ViewCounter from '../components/ViewCounter';
 import { graphql, useStaticQuery } from 'gatsby';
 
 const PostCard = () => {

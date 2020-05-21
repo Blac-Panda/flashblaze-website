@@ -8,8 +8,8 @@ const Index = () => {
   return (
     <Layout>
       <SEO
-        title="Neeraj Lagwankar"
-        description="Personal Website of Neeraj Lagwankar"
+        title="Personal blog by Oyefeso Oluwatunmise"
+        description="Personal blog by Oyefeso Oluwatunmise"
         slug=""
       />
       <Home />

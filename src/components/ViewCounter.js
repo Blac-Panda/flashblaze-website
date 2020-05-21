@@ -28,7 +28,7 @@ const ViewCounter = ({ id }) => {
 
   return (
     <div style={{ color: '#7e7e7e' }}>
-      {viewCount ? viewCount : `---`} views
+      {viewCount ? viewCount : `---`} views <i style={{color: '#7e7e7e'}} class="fa fa-eye"></i>
     </div>
   );
 };

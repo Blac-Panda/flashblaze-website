@@ -36,13 +36,15 @@ const Home = () => {
             p: 3,
           }}
         >
-          <h1>Neeraj Lagwankar</h1>
+          <h1>Oyefeso Oluwatunmise</h1>
           <p>
-            <b>React</b> and <b>Nodejs</b> developer.
+            <b>React, </b> <b>Python</b> and <b>Go</b> developer.
           </p>
           <p>
-            I'm a passionate graphics designer and animator with an interest in
-            3D.
+            I'm a Software Engineer with experience developing with Native Android, Python and React.
+          </p>
+          <p>
+            I promise, I know how to reverse linked list too.
           </p>
         </div>
         <div css={{ canvas: { outline: 'none' } }}>

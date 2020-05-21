@@ -21,58 +21,48 @@ const About = () => {
         <h2>About me</h2>
         <div>
           <p>
-            I'm a {age} year old front-end developer who likes to work with{' '}
-            <b>React</b> and <b>Nodejs</b>. I like building minimalist UIs and
-            everything I have done can be found on{' '}
+            I'm a Software Engineer who likes to work with{' '}
+            <b>React</b>, but I also love exploring other tools.
+            Hence the nickname codeXplorer. Check out my various projects on{' '}
             <Link
-              href="https://github.com/FlashBlaze"
+              href="https://github.com/Blac-Panda"
               rel="noopener noreferrer"
               target="_blank"
               aria-label="GitHub"
             >
               GitHub
             </Link>
-            . <br />I also like to develop some simple scripts using{' '}
-            <b>Python</b> such as{' '}
+            . <br />I am also curious about data structures and algorithms{' '}
+            , check out my data structures and algorithms projects{' '}
             <Link
-              href="https://github.com/FlashBlaze/yts-downloader"
+              href="https://github.com/Blac-Panda/Udacity-DSA-Nanodegree"
               rel="noopener noreferrer"
               target="_blank"
               aria-label="yts-downloader link"
             >
-              yts-downloader
+            created during my Nanodegree. 
             </Link>{' '}
-            and{' '}
+            I'm currently the open-source admin of a gaming platform for west-african gamers called {' '}
+            Stardome. You can find the repo{' '}
             <Link
-              href="https://github.com/FlashBlaze/reddit-bots"
-              rel="noopener noreferrer"
-              target="_blank"
-              aria-label="reddit-bots link"
-            >
-              reddit-bots
-            </Link>
-            . Recently I'm also getting into minor app development using{' '}
-            <b>Flutter</b>. You can find the app <i>Hacker News Reader</i> on{' '}
-            <Link
-              href="https://play.google.com/store/apps/details?id=com.flashblaze.ycnews"
+              href="https://github.com/Stardome-Team/Stardome-Web"
               rel="noopener noreferrer"
               target="_blank"
               aria-label="Hacker News Reader link"
             >
-              Play Store
+              on Github
             </Link>{' '}
-            and the source code on{' '}
-            <Link
-              href="https://github.com/FlashBlaze/ycnews"
-              rel="noopener noreferrer"
-              target="_blank"
-              aria-label="GitHub Hacker News Reader link"
-            >
-              GitHub
-            </Link>
           </p>
           <p>
-            I also love working with After Effects, Photoshop, Gimp and Blender.
+            When I'm not coding, you could find me co-hosting the {' '}
+            <Link
+              href="https://www.twitter.com/radiomonkeysng"
+              rel="noopener noreferrer"
+              target="_blank"
+              aria-label="Hacker News Reader link"
+            >
+              Radio Monkeys Podcast
+            </Link>{' '}
           </p>
         </div>
       </div>
@@ -81,15 +71,15 @@ const About = () => {
         <h2>Contact me</h2>
         <p>
           Get in touch:{' '}
-          <Link href="mailto:neerajlagwankar@gmail.com">
-            <i>neerajlagwankar@gmail.com</i>
+          <Link href="mailto:oyefesotunmise@gmail.com">
+            <i>oyefesotunmise@gmail.com</i>
           </Link>
         </p>
         <p>Find me here:</p>
         <ul>
           <li>
             <Link
-              href="https://github.com/FlashBlaze"
+              href="https://github.com/Blac-Panda"
               rel="noopener noreferrer"
               target="_blank"
               aria-label="GitHub link"
@@ -99,17 +89,7 @@ const About = () => {
           </li>
           <li>
             <Link
-              href="https://play.google.com/store/apps/developer?id=Neeraj+Lagwankar"
-              rel="noopener noreferrer"
-              target="_blank"
-              aria-label="Play Store link"
-            >
-              Play Store
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="https://www.linkedin.com/in/neeraj-lagwankar/"
+              href="https://www.linkedin.com/in/oluwatunmise-oyefeso/"
               rel="noopener noreferrer"
               target="_blank"
               aria-label="LinkedIn link"
@@ -119,7 +99,7 @@ const About = () => {
           </li>
           <li>
             <Link
-              href="https://instagram.com/neeraj_artx"
+              href="https://instagram.com/oyefeso_"
               rel="noopener noreferrer"
               target="_blank"
               aria-label="Instagram link"
@@ -129,22 +109,12 @@ const About = () => {
           </li>
           <li>
             <Link
-              href="https://twitter.com/neeraj_artx"
+              href="https://twitter.com/oyefesotunmise"
               rel="noopener noreferrer"
               target="_blank"
               aria-label="Twitter link"
             >
               Twitter
-            </Link>
-          </li>
-          <li>
-            <Link
-              href="https://t.me/flashblaze"
-              rel="noopener noreferrer"
-              target="_blank"
-              aria-label="Telegram link"
-            >
-              Telegram
             </Link>
           </li>
         </ul>

@@ -4,7 +4,7 @@ require('dotenv').config({
 });
 module.exports = {
   siteMetadata: {
-    siteUrl: `https://flashblaze.xyz`,
+    siteUrl: `https://codexplorer.me`,
   },
   plugins: [
     `gatsby-plugin-sitemap`,
@@ -19,15 +19,15 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Neeraj Lagwankar`,
-        short_name: `Neeraj Lagwankar`,
-        description: `Personal website of Neeraj Lagwankar`,
+        name: `Oyefeso Oluwatunmise`,
+        short_name: `Oyefeso Oluwatunmise`,
+        description: `A blog by Oyefeso Oluwatunmise`,
         lang: `en`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#ffffff`,
         display: `standalone`,
-        icon: `static/icon.png`,
+        icon: `static/icon.jpg`,
       },
     },
     {
@@ -35,20 +35,20 @@ module.exports = {
       options: {
         precachePages: [`/about/`, `/posts/`],
       },
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: 'UA-146150441-2',
-      },
-    },
-    {
-      resolve: `gatsby-plugin-verify-brave`,
-      options: {
-        token:
-          'e19c0d9e84864f737bffd0aa6f6d5a2353e5d718073ac50167e5e36c74324993',
-        domain: 'flashblaze.xyz',
-      },
+    // },
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     trackingId: 'UA-146150441-2',
+    //   },
+    // },
+    // {
+    //   resolve: `gatsby-plugin-verify-brave`,
+    //   options: {
+    //     token:
+    //       'e19c0d9e84864f737bffd0aa6f6d5a2353e5d718073ac50167e5e36c74324993',
+    //     domain: 'flashblaze.xyz',
+    //   },
     },
     {
       resolve: `gatsby-source-filesystem`,
@@ -88,8 +88,7 @@ module.exports = {
           projectId: process.env.PROJECT_ID,
           storageBucket: process.env.STORAGE_BUCKET,
           messagingSenderId: process.env.MESSAGING_SENDER_ID,
-          appId: process.env.APP_ID,
-          measurementId: process.env.MEASUREMENT_ID,
+          appId: process.env.APP_ID
         },
       },
     },
