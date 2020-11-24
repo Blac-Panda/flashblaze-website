@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { jsx, useColorMode } from 'theme-ui';
+import { Link as LinkType2, jsx, useColorMode } from 'theme-ui';
 import { FiMoon, FiSun } from 'react-icons/fi';
 import { IconContext } from 'react-icons';
 import { Link } from 'gatsby';
@@ -46,6 +46,15 @@ const Header = () => {
         <Link to="/about" sx={{ variant: 'text.heading', mr: 4 }}>
           <p>About</p>
         </Link>
+        <LinkType2 
+          href="https://drive.google.com/file/d/1DH6zohHqNkyx4UCABXdefolKoXhZ-tRb/view?usp=sharing"
+          rel="noopener noreferrer"
+          target="_blank"
+          aria-label="Resume" 
+          sx={{ variant: 'text.heading', mr: 4 }}
+        >
+          <p>Resume</p>
+        </LinkType2>
       </div>
     </header>
   );

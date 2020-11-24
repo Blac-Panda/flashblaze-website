@@ -31,7 +31,7 @@ const Footer = () => (
       />
     </a>
     <a
-      href="https://instagram.com/oyefeso_"
+      href="https://instagram.com/tunmiseoyefeso"
       rel="noopener noreferrer"
       target="_blank"
       aria-label="Instagram"
@@ -41,7 +41,7 @@ const Footer = () => (
       />
     </a>
     <a
-      href="https://twitter.com/oyefesotunmise"
+      href="https://twitter.com/tunmiseoyefeso"
       rel="noopener noreferrer"
       target="_blank"
       aria-label="Twitter"

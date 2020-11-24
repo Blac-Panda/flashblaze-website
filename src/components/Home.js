@@ -38,13 +38,16 @@ const Home = () => {
         >
           <h1>Oyefeso Oluwatunmise</h1>
           <p>
-            <b>React, </b> <b>Python</b> and <b>Go</b> developer.
+            Some of you call me Supreme Leader. 
           </p>
           <p>
-            I'm a Software Engineer with experience developing with Native Android, Python and React.
+            Currently galivanting the surface of the earth trying to find purpose and have fun along the way.
           </p>
           <p>
-            I promise, I know how to reverse linked list too.
+            I have a lot of interest in tech start-ups and politics.
+          </p>
+          <p>
+            I promise, I also know how to reverse linked list too.
           </p>
         </div>
         <div css={{ canvas: { outline: 'none' } }}>
