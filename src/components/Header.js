@@ -37,15 +37,15 @@ const Header = () => {
         )}
       </IconContext.Provider>
       <div sx={{ display: 'flex', flexDirection: 'row' }}>
-        <Link to="/" sx={{ variant: 'text.heading', mr: 4 }}>
+        <Link to="/about" sx={{ variant: 'text.heading', mr: 4 }}>
           <p>Home</p>
         </Link>
         <Link to="/posts" sx={{ variant: 'text.heading', mr: 4 }}>
           <p>Posts</p>
         </Link>
-        <Link to="/about" sx={{ variant: 'text.heading', mr: 4 }}>
+        {/* <Link to="/about" sx={{ variant: 'text.heading', mr: 4 }}>
           <p>About</p>
-        </Link>
+        </Link> */}
         <LinkType2 
           href="https://drive.google.com/file/d/1DH6zohHqNkyx4UCABXdefolKoXhZ-tRb/view?usp=sharing"
           rel="noopener noreferrer"

@@ -6,7 +6,7 @@ date: '2020-05-22'
 
 ## Performance (Part 1)
 
-There are so many ways to improve the performance of your web app, so in this first part, we'll be looking at one of the many ways in which you can actually do that.
+There are so many ways to improve the performance of your web app, so in this first part, we'll be looking at one of the many ways in which you can actually do that. The knowledge from this articles are mostly excerpts of knowledge I gain via the "Junior to Senior Developer Roadmap" by Andrei Neagoie.
 
 As a web developer, it is very important for you to realize that internet speed isn't the same for everyone of your user, so it is important to always take performance into consideration. Always prioritize fast user experience.
 

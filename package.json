@@ -1,9 +1,9 @@
 {
-  "name": "flashblaze-website",
+  "name": "codeXplorer Blog",
   "private": true,
-  "description": "Personal website of Neeraj Lagwankar",
+  "description": "Personal website of Oyefeso Oluwatunmise",
   "version": "1.0.0",
-  "author": "Neeraj Lagwankar <neerajlagwankar@gmail.com>",
+  "author": "Oyefeso Oluwatunmise",
   "scripts": {
     "build": "gatsby build",
     "develop": "env-cmd -f .env gatsby develop -H 0.0.0.0",
@@ -61,9 +61,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/FlashBlaze/flashblaze-website"
+    "url": "https://github.com/Blac-Panda/flashblaze-website"
   },
   "bugs": {
-    "url": "https://github.com/FlashBlaze/flashblaze-website/issues"
+    "url": "https://github.com/Blac-Panda/flashblaze-website/issues"
   }
 }

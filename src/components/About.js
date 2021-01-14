@@ -23,6 +23,8 @@ const About = () => {
           <p>
             I'm a Software Engineer (with major experience in Front-End Engineering) and Technical Writer.
             Currently galivanting the surface of the earth trying to find purpose and have fun along the way.
+          </p>
+          <p>
             I have a lot of interest in tech start-ups and politics.
           </p>
         </div>
@@ -31,6 +33,28 @@ const About = () => {
       <div sx={{ mt: 7 }}>
         <h2>Work</h2>
         <ul>
+          <li>
+            <Link
+              href="https://rdre.me"
+              rel="noopener noreferrer"
+              target="_blank"
+              aria-label="Rdre link"
+            >
+              Rdre
+            </Link>
+            {' '}- a custom URL shortner that also provides user with detailed link statistics and social media engagement statistics.
+          </li>
+          <li>
+            <Link
+              href="https://www.urbanyooba.com/yoodict"
+              rel="noopener noreferrer"
+              target="_blank"
+              aria-label="Urbanyooba link"
+            >
+              Urbanyooba
+            </Link>
+            {' '}- an urban dictionary for keep track of slangs and social media trends. 
+          </li>
           <li>
             <Link
               href="https://"
@@ -58,28 +82,6 @@ const About = () => {
               href="https://"
               rel="noopener noreferrer"
               target="_blank"
-              aria-label="Urbanyooba link"
-            >
-              Urbanyooba
-            </Link>
-            {' '}- an urban dictionary for keep track of slangs and media trends. 
-          </li>
-          <li>
-            <Link
-              href="https://rdre.me"
-              rel="noopener noreferrer"
-              target="_blank"
-              aria-label="Rdre link"
-            >
-              Rdre
-            </Link>
-            {' '}- a simple URL shortner that also provides user with detailed link statistics and social media engagement statistics.
-          </li>
-          <li>
-            <Link
-              href="https://"
-              rel="noopener noreferrer"
-              target="_blank"
               aria-label="Rdre link"
             >
               WaveUs
@@ -100,7 +102,7 @@ const About = () => {
               target="_blank"
               aria-label="Help2Find link"
             >
-              {' '}blog-section
+              {' '}blog-section.
             </Link>
           </li>
           <li>
@@ -111,7 +113,7 @@ const About = () => {
               target="_blank"
               aria-label="Medium link"
             >
-              {' '}Medium Publication
+              {' '}Medium Publication.
             </Link>
           </li>
           <li>
@@ -122,7 +124,7 @@ const About = () => {
               target="_blank"
               aria-label="RM Medium link"
             >
-              {' '}RadioMonkeys Podcast
+              {' '}RadioMonkeys Podcast.
             </Link>
           </li>
           <li>
@@ -135,7 +137,7 @@ const About = () => {
             >
               {' '}CodEngine Blog
             </Link>
-            {' '}earlier this year.
+            {' '}earlier this year (2020).
           </li>
         </ul>
       </div>
@@ -144,14 +146,14 @@ const About = () => {
         <h2>Speaking</h2>
         <ul>
           <li>
-            Watch my talk on 'Intro to Virtual Machines and Containers'
+            Watch my talk on 'Intro to Virtual Machines and Containers' at the Microsoft Student learn Ambassadors, UNILAG online session
             <Link
               href="https://web.microsoftstream.com/video/9d658b53-5b53-47e2-a6c3-370376ab7508"
               rel="noopener noreferrer"
               target="_blank"
               aria-label="Azure talk link"
             >
-              {' '}here
+              {' '}here.
             </Link>
           </li>
           <li>
@@ -162,7 +164,7 @@ const About = () => {
               target="_blank"
               aria-label="AudioMack link"
             >
-              {' '}join hundreds of other weekly listeners
+              {' '}join hundreds of other weekly listeners.
             </Link>
           </li>
         </ul>
