@@ -1,11 +1,11 @@
 {
-  "name": "codeXplorer Blog",
+  "name": "codeXplorer-Blog",
   "private": true,
   "description": "Personal website of Oyefeso Oluwatunmise",
   "version": "1.0.0",
   "author": "Oyefeso Oluwatunmise",
   "scripts": {
-    "build": "gatsby build",
+    "build": "npm run build",
     "develop": "env-cmd -f .env gatsby develop -H 0.0.0.0",
     "format": "prettier --write \"**/*.{js,jsx,json,md,mdx}\"",
     "lint": "npm run format && eslint --fix . && echo 'Lint complete.'",
