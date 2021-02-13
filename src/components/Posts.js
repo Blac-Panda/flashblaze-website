@@ -45,7 +45,7 @@ const Posts = () => {
 
           return (
             <div
-              sx={{ mb: 7, lineHeight: 0, fontSize: 2 }}
+              sx={{ mb: 7, lineHeight: 0, fontSize: 2, border: 'solid 1px #c4c4c4', padding: '20px 15px 10px 15px'}}
               key={edge.node.fields.slug}
             >
               <Link

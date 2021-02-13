@@ -88,6 +88,17 @@ const About = () => {
             </Link>
             {' '}- a cross-platform logistics application with realtime user tracking.
           </li>
+          <li>
+            <Link
+              href="https://panda-live.herokuapp.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+              aria-label="Panda Clothing link"
+            >
+              Panda Clothing
+            </Link>
+            {' '}- An online clothing store, with payment via Stripe (This was my first React + Redux project).
+          </li>
         </ul>
       </div>
 

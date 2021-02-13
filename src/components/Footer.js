@@ -5,6 +5,7 @@ import {
   AiOutlineInstagram,
   AiFillTwitterCircle,
   AiFillLinkedin,
+  AiFillDribbbleCircle
 } from 'react-icons/ai';
 
 const Footer = () => (
@@ -31,6 +32,16 @@ const Footer = () => (
       />
     </a>
     <a
+      href="https://www.linkedin.com/in/oluwatunmise-oyefeso/"
+      rel="noopener noreferrer"
+      target="_blank"
+      aria-label="LinkedIn"
+    >
+      <AiFillLinkedin
+        sx={{ color: 'text', strokeWidth: '1', height: '2em', width: '2em' }}
+      />
+    </a>
+    <a
       href="https://instagram.com/tunmiseoyefeso"
       rel="noopener noreferrer"
       target="_blank"
@@ -41,22 +52,22 @@ const Footer = () => (
       />
     </a>
     <a
+      href="https://dribbble.com/codexplorer"
+      rel="noopener noreferrer"
+      target="_blank"
+      aria-label="dribble"
+    >
+      <AiFillDribbbleCircle
+        sx={{ color: 'text', strokeWidth: '1', height: '2em', width: '2em' }}
+      />
+    </a>
+    <a
       href="https://twitter.com/tunmiseoyefeso"
       rel="noopener noreferrer"
       target="_blank"
       aria-label="Twitter"
     >
       <AiFillTwitterCircle
-        sx={{ color: 'text', strokeWidth: '1', height: '2em', width: '2em' }}
-      />
-    </a>
-    <a
-      href="https://www.linkedin.com/in/oluwatunmise-oyefeso/"
-      rel="noopener noreferrer"
-      target="_blank"
-      aria-label="LinkedIn"
-    >
-      <AiFillLinkedin
         sx={{ color: 'text', strokeWidth: '1', height: '2em', width: '2em' }}
       />
     </a>
