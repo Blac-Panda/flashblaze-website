@@ -4,7 +4,7 @@ description: How to document components in your React application using Storyboo
 date: '2021-02-16'
 ---
 
-We are going to be documention a React application with [Storybook](https://storybook.js.org/). For this article, we would be documenting an [e-commerce application](https://panda-live.herokuapp.com/) I created, you can find the code [here](https://github.com/Blac-Panda/panda-clothing-server).
+We are going to be documenting an [e-commerce web app](https://panda-live.herokuapp.com/) with [Storybook](https://storybook.js.org/). You can find the source code for the application [here](https://github.com/Blac-Panda/panda-clothing-server).
 
 ![storybook-landing](./assets/documenting-components-with-storybook/storybook-landing.JPG)
 
