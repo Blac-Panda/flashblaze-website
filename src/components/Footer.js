@@ -5,7 +5,7 @@ import {
   AiOutlineInstagram,
   AiFillTwitterCircle,
   AiFillLinkedin,
-  AiFillDribbbleCircle
+  AiFillBehanceCircle
 } from 'react-icons/ai';
 
 const Footer = () => (
@@ -52,12 +52,12 @@ const Footer = () => (
       />
     </a>
     <a
-      href="https://dribbble.com/codexplorer"
+      href="https://www.behance.net/tunmiseoyefeso"
       rel="noopener noreferrer"
       target="_blank"
-      aria-label="dribble"
+      aria-label="behance"
     >
-      <AiFillDribbbleCircle
+      <AiFillBehanceCircle
         sx={{ color: 'text', strokeWidth: '1', height: '2em', width: '2em' }}
       />
     </a>
