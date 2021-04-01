@@ -47,7 +47,7 @@ const Header = () => {
           <p>About</p>
         </Link> */}
         <LinkType2 
-          href="https://drive.google.com/file/d/1inaUvMuLtFRLwaqT8oZwEwbHI7H2e9hi/view?usp=sharing"
+          href="https://drive.google.com/file/d/1mcZ2e7CBoWCsGF01p2sAigzz8n6lRNAA/view?usp=sharing"
           rel="noopener noreferrer"
           target="_blank"
           aria-label="Resume" 
