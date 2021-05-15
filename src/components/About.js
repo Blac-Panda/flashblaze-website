@@ -21,11 +21,29 @@ const About = () => {
         <h2>About me</h2>
         <div>
           <p>
-            I'm a Software Engineer (with major experience in Front-End Engineering) and Technical Writer.
-            Currently galivanting the surface of the earth trying to find purpose and have fun along the way.
+            I'm a Software Engineer and Product Manager, currently galivanting the surface of the earth trying to find purpose and have fun along the way.
           </p>
           <p>
-            I have a lot of interest in tech start-ups and politics.
+            I have a lot of interest in tech start-ups, I host free advisory and insight
+            <Link
+              href="https://oyefesotunmise.typeform.com/to/qIyFPczq"
+              rel="noopener noreferrer"
+              target="_blank"
+              aria-label="book session"
+            >
+              {' '}sessions.
+            </Link>
+          </p>
+          <p>
+            In my spare time, I like to play around with Figma, you can check out some of my designs 
+            <Link
+              href="https://www.behance.net/tunmiseoyefeso"
+              rel="noopener noreferrer"
+              target="_blank"
+              aria-label="book session"
+            >
+              {' '}here.
+            </Link>
           </p>
         </div>
       </div>
@@ -106,7 +124,7 @@ const About = () => {
         <h2>Writing</h2>
         <ul>
           <li>
-            For all technical articles, I do a decent amount of blogging in the
+            For all my articles both technical and non-technical, I do a decent amount of blogging in the
             <Link
               href="https://codexplorer.me/posts"
               rel="noopener noreferrer"
@@ -117,7 +135,7 @@ const About = () => {
             </Link>
           </li>
           <li>
-            For non-technical articles, check out my 
+            For non-technical/product articles, check out my 
             <Link
               href="https://medium.com/tunmise-oyefesos-blog"
               rel="noopener noreferrer"

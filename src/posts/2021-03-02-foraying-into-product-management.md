@@ -31,5 +31,6 @@ I'm adding this edit, to answer some of the questions and feedback I got from fr
 I think the most common question I got from literally everyone who read this article is "So are you going to stop coding?"
 
 My answer: Nope. I understand that becoming a product manager will be a journey, in terms of developing and learning. Getting a role as a Product Designer/Product Manager is only the beginning of that learning journey. Also, I have a lot of committments I would to see through, till the end of April 2021. 
+
 Most people who know me, know I'm a 'start-up person'; I love fiddling and playing with ideas to see user reactions and responses. I'm currently working on a picture & chat-free dating site called Heartbeat. Generally to execute some of these projects, I have to code or work with friends/acquaintances who code.
 So, in summary, I would still be coding for a while.
