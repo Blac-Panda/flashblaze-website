@@ -52,7 +52,7 @@ const Footer = () => (
       />
     </a>
     <a
-      href="https://www.behance.net/tunmiseoyefeso"
+      href="https://www.behance.net/oyefesotunmise"
       rel="noopener noreferrer"
       target="_blank"
       aria-label="behance"

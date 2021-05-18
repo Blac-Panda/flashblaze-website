@@ -37,7 +37,7 @@ const About = () => {
           <p>
             In my spare time, I like to play around with Figma, you can check out some of my designs 
             <Link
-              href="https://www.behance.net/tunmiseoyefeso"
+              href="https://www.behance.net/oyefesotunmise"
               rel="noopener noreferrer"
               target="_blank"
               aria-label="book session"
