@@ -75,7 +75,7 @@ const About = () => {
           </li>
           <li>
             <Link
-              href="https://"
+              href="https://www.figma.com/proto/apqRbLxNvAYJxlPsUjvhqm/Untitled?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1"
               rel="noopener noreferrer"
               target="_blank"
               aria-label="Help2Find link"
@@ -175,12 +175,23 @@ const About = () => {
         <h2>Speaking</h2>
         <ul>
           <li>
-            Watch my talk on 'Intro to Virtual Machines and Containers' at the Microsoft Student learn Ambassadors, UNILAG online session
+            Watch my talk on 'Intro to Virtual Machines and Containers' at the Microsoft Student Learn Ambassadors, UNILAG online session
             <Link
               href="https://web.microsoftstream.com/video/9d658b53-5b53-47e2-a6c3-370376ab7508"
               rel="noopener noreferrer"
               target="_blank"
               aria-label="Azure talk link"
+            >
+              {' '}here.
+            </Link>
+          </li>
+          <li>
+            Watch my talk on 'No-code related opportunities in tech'
+            <Link
+              href="https://stdntpartners-my.sharepoint.com/personal/tolu_david_studentambassadors_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ftolu%5Fdavid%5Fstudentambassadors%5Fcom%2FDocuments%2FEventPublic%2FMLSA%20LAUTECH%20EVENT%2D20210605%5F100745%2DMeeting%20Recording%2Emp4&parent=%2Fpersonal%2Ftolu%5Fdavid%5Fstudentambassadors%5Fcom%2FDocuments%2FEventPublic&originalPath=aHR0cHM6Ly9zdGRudHBhcnRuZXJzLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL3RvbHVfZGF2aWRfc3R1ZGVudGFtYmFzc2Fkb3JzX2NvbS9FU0F0Xzd6d3RlbEVnQklZZWV2TVo2NEJNeFY3bkMxc0pUUWljWE15ZXNheUJnP3J0aW1lPWxESDY0TDgxMlVn"
+              rel="noopener noreferrer"
+              target="_blank"
+              aria-label="Nocode talk link"
             >
               {' '}here.
             </Link>
